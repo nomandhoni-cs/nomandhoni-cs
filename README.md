@@ -7,7 +7,7 @@
 - Skilled at C, C++, HTML, CSS.
 - A Proggamer, Web Developer, Blogger, Student.
 - Also known as Noman Dhoni AKA – The most dedicated Programmer in Bangladesh is considered to be the most dedicated man in BD as well.
-- Social Link: Github: @inoman Twitter: @nomandhoni LinkedIn: @nomandhoni 
+- Social Link: Github: @nomandhoni-cs Twitter: @nomandhoni LinkedIn: @nomandhoni 
   
 <!---
 nomandhoni-cs/nomandhoni-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
