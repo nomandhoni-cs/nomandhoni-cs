@@ -1,3 +1,4 @@
+[![Header](https://raw.githubusercontent.com/nomandhoni-cs/nomandhoni-cs/master/banner.png "Header")](https://martinheinz.dev/)
 - 👋 Hi, I am Abdullah Al Noman also known as - Noman Dhoni.
 - 👀 I’m interested in Software Development, Blogging, Backend Development
 - 🌱 I’m currently learning C++, JavaScript, Python
@@ -8,8 +9,9 @@
 - A Proggamer, Web Developer, Blogger, Student.
 - Also known as Noman Dhoni AKA – The most dedicated Programmer in Bangladesh is considered to be the most dedicated man in BD as well.
 - Social Link: Github: @nomandhoni-cs Twitter: @nomandhoni LinkedIn: @nomandhoni 
-  
+ </br><a href="https://www.linkedin.com/in/nomandhoni"> ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> 
 <!---
 nomandhoni-cs/nomandhoni-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
