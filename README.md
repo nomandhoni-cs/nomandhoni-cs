@@ -12,7 +12,12 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
   <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
   <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" />
   <br />
+<!--C, C++, HTML, CSS.-->
 
+## 	Currently Learning :technologist: 
+ <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
+  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /><br />
+  
 <!--
  Also known as Noman Dhoni AKA – The most dedicated Programmer in Bangladesh is considered to be the most dedicated man in BD as well.
 -->
@@ -54,12 +59,7 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
   <a href="https://nomandhoni.wordpress.com/">
   <img align="left" alt="Noman Dhoni's Wordpress" width="22px" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" />
 </a><br />
-<!--C, C++, HTML, CSS.-->
 
-## 	Currently Learning :technologist: 
- <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
-  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /><br />
-  
  <!--Blogpost -->
 ### &#x270d; Recent Blogs:
 1. [Sololearn C++ 'Transportation' problem solution and explanation](https://dailynoman.blogspot.com/2021/07/transportation-problem.html).
