@@ -1,7 +1,7 @@
 - 👋 Hi, I am Abdullah Al Noman also known as - Noman Dhoni.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development, Blogging, Backend Development
+- 🌱 I’m currently learning C++, JavaScript, Python
+- 💞️ I’m looking to collaborate on Open Source projects.
 - 📫 Reach me  Reddit: @nomandhoni Instagram: @nomandhoni Pinterest: @nomandhoni Facebook: @dhoni.noman
 - If you want to know more about me google it, 'nomandhoni'.
 - Skilled at C, C++, HTML, CSS.
