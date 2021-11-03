@@ -1,6 +1,14 @@
 [![Header](https://raw.githubusercontent.com/nomandhoni-cs/nomandhoni-cs/master/banner.png "Header")](https://dailynoman.blogspot.com/p/contact.html)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Abdullah Al Noman also known as - Noman Dhoni.  A Proggamer, Web Developer, Blogger, Student. I do Programming for fun. Writing a code and running that gives me joy.
+<br />
+If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact.html" target="_blank">here</a>.
+
+<!--
+ Also known as Noman Dhoni AKA – The most dedicated Programmer in Bangladesh is considered to be the most dedicated man in BD as well.
+-->
+## Social Links:
 <!-- Start of Social Links -->
 <a href="https://twitter.com/nomandhoni/">
   <img align="left" alt="Noman Dhoni | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -38,23 +46,6 @@
   <a href="https://nomandhoni.wordpress.com/">
   <img align="left" alt="Noman Dhoni's Wordpress" width="22px" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" />
 </a><br />
-<!--End of Social Links-->
-My name is Abdullah Al Noman also known as - Noman Dhoni.  A Proggamer, Web Developer, Blogger, Student. I do Programming for fun. Writing a code and running that gives me joy.
-<br />
-If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact.html" target="_blank">here</a>.
-
-<!--
- Also known as Noman Dhoni AKA – The most dedicated Programmer in Bangladesh is considered to be the most dedicated man in BD as well.
--->
-
-##  Skilled At :muscle:
-  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
-  
-  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />
-  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
-  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
-  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" /><br />
-
 <!--C, C++, HTML, CSS.-->
 
 ## 	Currently Learning :technologist: 
