@@ -1,8 +1,15 @@
-[![Header](https://raw.githubusercontent.com/nomandhoni-cs/nomandhoni-cs/master/banner.png "Header")](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/nomandhoni-cs/nomandhoni-cs/master/banner.png "Header")](https://dailynoman.blogspot.com/p/contact.html)
 - 👋 Hi, I am Abdullah Al Noman also known as - Noman Dhoni.
 - 👀 I’m interested in Software Development, Blogging, Backend Development
 - 🌱 I’m currently learning C++, JavaScript, Python
 - 💞️ I’m looking to collaborate on Open Source projects.
+<a href="https://twitter.com/nomandhoni/">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/nomandhoni/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+</br>
 - 📫 Reach me  Reddit: @nomandhoni Instagram: @nomandhoni Pinterest: @nomandhoni Facebook: @dhoni.noman
 - If you want to know more about me google it, 'nomandhoni'.
 - Skilled at C, C++, HTML, CSS.
