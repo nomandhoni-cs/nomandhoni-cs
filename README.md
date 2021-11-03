@@ -4,6 +4,14 @@
 My name is Abdullah Al Noman also known as - Noman Dhoni.  A Proggamer, Web Developer, Blogger, Student. I do Programming for fun. Writing a code and running that gives me joy.
 <br />
 If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact.html" target="_blank">here</a>.
+<br />
+## Skilled At :muscle:
+  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
+  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />
+  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
+  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
+  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" />
+  <br />
 
 <!--
  Also known as Noman Dhoni AKA – The most dedicated Programmer in Bangladesh is considered to be the most dedicated man in BD as well.
