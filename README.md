@@ -37,12 +37,11 @@
 </a> 
   <a href="https://nomandhoni.wordpress.com/">
   <img align="left" alt="Noman Dhoni's Wordpress" width="22px" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" />
-</a> 
- <!--End of Social Links-->  
-<br />
+</a><br />
+<!--End of Social Links-->
 My name is Abdullah Al Noman also known as - Noman Dhoni.  A Proggamer, Web Developer, Blogger, Student. I do Programming for fun. Writing a code and running that gives me joy.
 <br />
-If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact.html" target="_blank">here</a>
+If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact.html" target="_blank">here</a>.
 
 <!--
  Also known as Noman Dhoni AKA – The most dedicated Programmer in Bangladesh is considered to be the most dedicated man in BD as well.
