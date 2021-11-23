@@ -1,5 +1,5 @@
-[![Header](https://raw.githubusercontent.com/nomandhoni-cs/nomandhoni-cs/master/banner.png "Header")](https://dailynoman.blogspot.com/p/contact.html)
-
+<!--[![Header](https://raw.githubusercontent.com/nomandhoni-cs/nomandhoni-cs/master/banner.png "Header")](https://dailynoman.blogspot.com/p/contact.html)
+-->
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Abdullah Al Noman also known as - Noman Dhoni.  A Proggamer, Web Developer, Blogger, Student. I do Programming for fun. Writing a code and running that gives me joy.
 <br />
