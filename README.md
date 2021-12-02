@@ -21,6 +21,10 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 <!--
  Also known as Noman Dhoni AKA – The most dedicated Programmer in Bangladesh is considered to be the most dedicated man in BD as well.
 -->
+### My Github Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nomandhoni-cs&show_icons=true&count_private=true&theme=dark" alt="nomandhoni-cs" />
+
+
 ## Social Links:
 <!-- Start of Social Links -->
 <a href="https://twitter.com/nomandhoni/">
