@@ -28,7 +28,7 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 </p>
 
 
-
+<br>
 ## Social Links:
 <!-- Start of Social Links -->
 <a href="https://twitter.com/nomandhoni/">
@@ -40,9 +40,9 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
    <a href="https://www.github.com/nomandhoni-cs/">
   <img align="left" alt="Noman Dhoni's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a> 
-<a href="https://www.reddit.com/u/nomandhoni/">
+<!-- <a href="https://www.reddit.com/u/nomandhoni/">
   <img align="left" alt="Noman Dhoni's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
+</a> -->
 <a href="https://www.youtube.com/channel/UCuaJjafI8UDINr3piGJhqng">
   <img align="left" alt="Noman Dhoni's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a> 
@@ -55,12 +55,12 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
   <a href="https://www.instagram.com/nomandhoni/">
   <img align="left" alt="Noman Dhoni's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" />
 </a> 
-  <a href="https://www.linkedin.com/in/nomandhoni/">
+  <!-- <a href="https://www.linkedin.com/in/nomandhoni/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
-</a> 
- <a href="https://facebook.com/nomandhoni.official">
-  <img align="left" alt="Noman Dhoni's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a> 
+</a> -->
+ <!-- <a href="https://facebook.com/nomandhoni.official">
+  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a> -->
   <a href="https://dailynoman.blogspot.com/">
   <img align="left" alt="Noman Dhoni's Blogsite" width="22px" src="https://cdn.worldvectorlogo.com/logos/blogger-1.svg" />
 </a> 
