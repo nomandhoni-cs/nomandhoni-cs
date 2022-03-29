@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/nomandhoni-cs/nomandhoni-cs/master/banner/profile.png "Header")](https://dailynoman.blogspot.com/p/contact.html)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img  width="100%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Abdullah Al Noman also known as - Noman Dhoni.  A Proggamer, Web Developer, Blogger, Student. I do Programming for fun. Writing a code and running that gives me joy.
 <br />
 If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact.html" target="_blank">here</a>.
@@ -22,9 +22,12 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
  Also known as Noman Dhoni AKA – The most dedicated Programmer in Bangladesh is considered to be the most dedicated man in BD as well.
 -->
 ### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nomandhoni-cs&show_icons=true&count_private=true&theme=dark" alt="nomandhoni-cs" />
 <p align="left">
-   <img width="430" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nomandhoni-cs&theme=algolia&hide_border=false"/>
+  <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=nomandhoni-cs&show_icons=true&count_private=true&theme=dark" alt="nomandhoni-cs" />
+</p>
+<br>
+<p align="left">
+   <img width="100%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nomandhoni-cs&theme=algolia&hide_border=false"/>
 </p>
 
 
