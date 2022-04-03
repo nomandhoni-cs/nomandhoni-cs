@@ -2,11 +2,14 @@
 <!-- [![Header](https://raw.githubusercontent.com/nomandhoni-cs/nomandhoni-cs/master/banner/profile.png "Header")](https://dailynoman.blogspot.com/p/contact.html) -->
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Abdullah Al Noman also known as - Noman Dhoni.  A Proggamer, Web Developer, Blogger, Student. I do Programming for fun. Writing a code and running that gives me joy.
+
+My name is Abdullah Al Noman also known as - Noman Dhoni. A Programer, Web Developer, Blogger, Student. I do Programming for fun. Writing a code and running that gives me joy.
 <br />
 If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact.html" target="_blank">here</a>.
 <br />
+
 ## Skilled At :muscle:
+
   <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
   <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />
   <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
@@ -15,7 +18,8 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
   <br />
 <!--C, C++, HTML, CSS.-->
 
-## 	Currently Learning :technologist: 
+## Currently Learning :technologist:
+
  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
   <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /><br />
   
@@ -31,9 +35,8 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
    <img width="100%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nomandhoni-cs&theme=algolia&hide_border=false"/>
 </p>
 
-
-
 ## Social Links:
+
 <!-- Start of Social Links -->
 <a href="https://twitter.com/nomandhoni/">
   <img align="left" alt="Noman Dhoni | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -60,7 +63,7 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
   <img align="left" alt="Noman Dhoni's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" />
 </a> 
   <!-- <a href="https://www.linkedin.com/in/nomandhoni/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
+  <img align="left" alt="Abdullah's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
 </a> -->
  <!-- <a href="https://facebook.com/nomandhoni.official">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
@@ -73,7 +76,9 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 </a><br />
 
  <!--Blogpost -->
+
 ### &#x270d; Recent Blogs:
+
 1. [Sololearn C++ 'Transportation' problem solution and explanation](https://dailynoman.blogspot.com/2021/07/transportation-problem.html).
 2. [Print Even and Odd Number in separate row/colum in one time](https://dailynoman.blogspot.com/2021/07/print-even-and-odd-number-in-separate.html).
 <!---
@@ -81,5 +86,4 @@ nomandhoni-cs/nomandhoni-cs is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nomandhoni-cs&label=Profile%20views&color=0e75b6&style=flat" alt="nomandhoni-cs" /> </p>  
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nomandhoni-cs&label=Profile%20views&color=0e75b6&style=flat" alt="nomandhoni-cs" /> </p>
