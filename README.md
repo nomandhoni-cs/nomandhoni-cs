@@ -31,9 +31,6 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
   <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=nomandhoni-cs&show_icons=true&count_private=true&theme=dark" alt="nomandhoni-cs" />
 </p>
 <br>
-<p align="left">
-   <img width="100%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nomandhoni-cs&theme=algolia&hide_border=false"/>
-</p>
 
 ## Social Links:
 
