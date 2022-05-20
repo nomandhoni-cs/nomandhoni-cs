@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Abdullah Al Noman also known as - Noman Dhoni. A Programer, Web Developer, Blogger, Student. I do Programming for fun. Writing a code and running that gives me joy.
+My name is Abdullah Al Noman also known as - Noman Dhoni. A Programmer, Web Developer, Blogger, Student. I do Programming for fun. Writing a code and running that gives me joy.
 <br />
 If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact.html" target="_blank">here</a>.
 <br />
