@@ -1,7 +1,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/nomandhoni-cs/nomandhoni-cs/master/banner/profile.png">
 <!-- [![Header](https://raw.githubusercontent.com/nomandhoni-cs/nomandhoni-cs/master/banner/profile.png "Header")](https://dailynoman.blogspot.com/p/contact.html) -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 My name is Abdullah Al Noman also known as - Noman Dhoni. A Programmer, Web Developer, Blogger, Student. I do Programming for fun. Writing a code and running that gives me joy.
 <br />
