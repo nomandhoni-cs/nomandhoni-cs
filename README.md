@@ -53,7 +53,7 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 <a href="https://www.youtube.com/channel/UCuaJjafI8UDINr3piGJhqng">
   <img align="left" alt="Noman Dhoni's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a> 
-  <a href="https://www.linkedin.com/in/nomandhoni/">
+  <a href="https://discord.com/users/910959881249505280">
   <img align="left" alt="Noman Dhoni's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> 
   <a href="https://stackoverflow.com/users/16659520/nomandhoni">
