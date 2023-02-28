@@ -9,20 +9,9 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 <br />
 
 ## Skilled At :muscle:
-
-  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
-  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />
-  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
-  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
-  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" />
-  <br />
-<!--C, C++, HTML, CSS.-->
-
+[![My Skills](https://skillicons.dev/icons?i=js,react,git,html,css,bootstrap,materialui,ts,nodejs,mongodb,expressjs,redux,cpp,md,firebase)](https://skillicons.dev)
 ## Currently Learning :technologist:
-
- <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
-  <img align="left" alt="C++ Icon" width="22px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /><br />
-  
+  [![Currently Learning](https://skillicons.dev/icons?i=nodejs,python)](https://skillicons.dev)<br />
 <!--
  Also known as Noman Dhoni AKA – The most dedicated Programmer in Bangladesh is considered to be the most dedicated man in BD as well.
 -->
