@@ -1,5 +1,4 @@
-![Blue Modern School Admission Banner Landscape (1600 × 500 px) (5)](https://user-images.githubusercontent.com/92979541/232454076-eec9b852-263e-477f-820d-fc0ae5afe449.gif)
-
+<img src="https://user-images.githubusercontent.com/92979541/232454076-eec9b852-263e-477f-820d-fc0ae5afe449.gif" width="100%">
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 My name is Abdullah Al Noman also known as - Noman Dhoni. A Programmer, Web Developer, Blogger, Student. I do Programming for fun. Writing a code and running that gives me joy.
