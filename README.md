@@ -1,5 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/nomandhoni-cs/nomandhoni-cs/master/banner/profile.png">
-<!-- [![Header](https://raw.githubusercontent.com/nomandhoni-cs/nomandhoni-cs/master/banner/profile.png "Header")](https://dailynoman.blogspot.com/p/contact.html) -->
+![Blue Modern School Admission Banner Landscape (1600 × 500 px) (1)](https://user-images.githubusercontent.com/92979541/232450919-50967e96-a376-424a-a0ac-7f4acf34d7b5.gif)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
