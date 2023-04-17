@@ -1,4 +1,4 @@
-![Blue Modern School Admission Banner Landscape (1600 × 500 px) (1)](https://user-images.githubusercontent.com/92979541/232450919-50967e96-a376-424a-a0ac-7f4acf34d7b5.gif)
+![Blue Modern School Admission Banner Landscape (1600 × 500 px) (5)](https://user-images.githubusercontent.com/92979541/232454076-eec9b852-263e-477f-820d-fc0ae5afe449.gif)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
