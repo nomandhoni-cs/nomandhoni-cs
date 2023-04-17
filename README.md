@@ -42,7 +42,10 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 </a> 
   <a href="https://discord.com/users/910959881249505280">
   <img align="left" alt="Noman Dhoni's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> 
+</a>
+<a rel="me" href="https://mastodon.social/@nomandhoni">
+<img align="left" alt="Noman Dhoni's Mastodon" width="22px" src="https://raw.githubusercontent.com/mastodon/mastodon/bc75e62ca6e16d3dad43fd35ccca335de547cfb3/app/javascript/icons/favicon-32x32.png" />
+</a>
   <a href="https://stackoverflow.com/users/16659520/nomandhoni">
   <img align="left" alt="Noman Dhoni's Stack Overflow" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" />
 </a> 
