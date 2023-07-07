@@ -75,5 +75,10 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 nomandhoni-cs/nomandhoni-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br />
+<a href="https://www.buymeacoffee.com/nomandhoni" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomandhoni-cs&label=Profile%20views&color=0e75b6&style=flat" alt="nomandhoni-cs" /> </p>
