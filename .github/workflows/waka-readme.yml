@@ -18,7 +18,7 @@ jobs:
           SHOW_TITLE: true 
           SECTION_NAME: waka
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          TIME_RANGE: last_7_days
+          TIME_RANGE: all_time
           SHOW_TIME: true 
           SHOW_TOTAL: true 
           STOP_AT_OTHER: true # optional
