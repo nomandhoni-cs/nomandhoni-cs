@@ -17,6 +17,7 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 <br>
 ### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Weekly Developent Stats:**
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 ## Social Links:
 
