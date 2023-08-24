@@ -1,33 +1,23 @@
+# This is a basic workflow to help you get started with Actions
+
 name: Waka Readme
 
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
 on:
-  # for manual workflow trigger
+  push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true 
-          SECTION_NAME: waka
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          TIME_RANGE: all_time
-          SHOW_TIME: true 
-          SHOW_TOTAL: true 
-          STOP_AT_OTHER: true # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: main # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: NOMAN_DHONI # optional
-          AUTHOR_EMAIL: NOMANDHONI@YAHOO.com # optional
-          # you can populate email-id with secretes instead
