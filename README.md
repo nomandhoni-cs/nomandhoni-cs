@@ -9,19 +9,15 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 ## Skilled At :muscle:
 [![My Skills](https://skillicons.dev/icons?i=js,react,git,html,css,bootstrap,materialui,ts,nodejs,mongodb,expressjs,redux,cpp,md,firebase)](https://www.nomandhoni.tech)
 ## Currently Learning :technologist:
-  [![Currently Learning](https://skillicons.dev/icons?i=nodejs,python)](https://skillicons.dev)<br />
+[![Currently Learning](https://skillicons.dev/icons?i=nodejs,python)](https://skillicons.dev)<br />
 
 ### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-<p align="left">
-  <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=nomandhoni-cs&show_icons=true&count_private=true&theme=dark" alt="nomandhoni-cs" />
-</p>
+[![My Skills](https://github-readme-stats.vercel.app/api?username=nomandhoni-cs&show_icons=true&count_private=true&theme=dark)](https://www.nomandhoni.tech)
+[![My Skills](https://github-readme-streak-stats.herokuapp.com/?user=nomandhoni-cs&theme=algolia&hide_border=false)](https://www.nomandhoni.tech)
 <br>
-<p align="left">
-   <img width="100%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nomandhoni-cs&theme=algolia&hide_border=false"/>
-</p>
-
-<br>
-
+### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Weekly Developent Stats:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ## Social Links:
 
 <!-- Start of Social Links -->
