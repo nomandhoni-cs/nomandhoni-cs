@@ -12,10 +12,10 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 [![Currently Learning](https://skillicons.dev/icons?i=nodejs,python)](https://skillicons.dev)<br />
 
 ### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-[![My Skills](https://github-readme-stats.vercel.app/api?username=nomandhoni-cs&show_icons=true&count_private=true&theme=dark)](https://www.nomandhoni.tech)
-[![My Skills](https://github-readme-streak-stats.herokuapp.com/?user=nomandhoni-cs&theme=algolia&hide_border=false)](https://www.nomandhoni.tech)
-<br>
-### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Weekly Developent Stats:**
+<img src="https://github-readme-stats.vercel.app/api?username=nomandhoni-cs&show_icons=true&count_private=true&theme=dark" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nomandhoni-cs&theme=algolia&hide_border=false" width="100%">
+
+### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Monthly Developent Stats:**
 <!--START_SECTION:waka-->
 
 ```javascript
