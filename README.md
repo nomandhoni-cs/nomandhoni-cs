@@ -18,7 +18,7 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 ### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Weekly Developent Stats:**
 <!--START_SECTION:waka-->
 
-```rust
+```javascript
 From: 25 July 2023 - To: 24 August 2023
 
 Total Time: 2 mins
