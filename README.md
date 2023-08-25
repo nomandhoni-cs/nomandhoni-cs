@@ -18,10 +18,14 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 ### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Weekly Developent Stats:**
 <!--START_SECTION:waka-->
 
-```txt
-JSON         1 min           ███████████████▒░░░░░░░░░   61.39 %
-TypeScript   0 secs          █████████▒░░░░░░░░░░░░░░░   37.28 %
-HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+```rust
+From: 25 July 2023 - To: 24 August 2023
+
+Total Time: 2 mins
+
+JSON         1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.39 %
+TypeScript   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.28 %
+HTML         0 secs          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.33 %
 ```
 
 <!--END_SECTION:waka-->
