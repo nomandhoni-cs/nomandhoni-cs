@@ -20,7 +20,7 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 09 August 2023 - To: 08 September 2023
+From: 10 August 2023 - To: 09 September 2023
 
 Total Time: 9 hrs 13 mins
 
