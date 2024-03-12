@@ -20,7 +20,7 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 08 February 2024 - To: 09 March 2024
+From: 09 February 2024 - To: 10 March 2024
 
 Total Time: 22 hrs 44 mins
 
