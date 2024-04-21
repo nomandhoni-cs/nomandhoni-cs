@@ -20,12 +20,12 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 19 March 2024 - To: 18 April 2024
+From: 20 March 2024 - To: 19 April 2024
 
 Total Time: 10 hrs 32 mins
 
-TypeScript     6 hrs 10 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.70 %
-Other          3 hrs 55 mins   ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.10 %
+TypeScript     6 hrs 10 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.80 %
+Other          3 hrs 53 mins   ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.94 %
 ```
 
 <!--END_SECTION:waka-->
