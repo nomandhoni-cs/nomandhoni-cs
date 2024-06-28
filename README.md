@@ -20,7 +20,7 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 26 May 2024 - To: 25 June 2024
+From: 27 May 2024 - To: 26 June 2024
 
 Total Time: 1 hr 43 mins
 
