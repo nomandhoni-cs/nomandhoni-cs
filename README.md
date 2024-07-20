@@ -20,11 +20,11 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 17 June 2024 - To: 17 July 2024
+From: 19 June 2024 - To: 19 July 2024
 
-Total Time: 4 hrs 11 mins
+Total Time: 4 hrs 38 mins
 
-Other          2 hrs 55 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.04 %
+Other          2 hrs 57 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.93 %
 ```
 
 <!--END_SECTION:waka-->
