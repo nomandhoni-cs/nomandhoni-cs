@@ -20,7 +20,7 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 04 August 2024 - To: 03 September 2024
+From: 05 August 2024 - To: 04 September 2024
 
 Total Time: 5 hrs 41 mins
 
