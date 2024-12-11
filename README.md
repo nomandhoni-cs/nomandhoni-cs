@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nomandhoni-cs/nomandhoni-cs/main/banner/Blue%20Modern%20School%20Admission%20Banner%20Landscape%20(1600%20%C3%97%20500%20px)%20(5).gif" width="100%">
+<img src="https://raw.githubusercontent.com/nomandhoni-cs/nomandhoni-cs/main/banner/Blue%20Modern%20School%20Admission%20Banner%20Landscape%20(1600%20%C3%97%20500%20px)%20(5).gif" width="100%"> 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
@@ -13,6 +13,8 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 [![Currently Learning](https://skillicons.dev/icons?i=nodejs,python)](https://skillicons.dev)<br />
 
 ### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+![](./profile-3d-contrib/profile-night-green.svg)
+
 <img src="https://github-readme-stats.vercel.app/api?username=nomandhoni-cs&show_icons=true&count_private=true&theme=dark" width="100%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomandhoni-cs&theme=algolia&hide_border=false" width="100%">
 
