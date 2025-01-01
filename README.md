@@ -10,9 +10,9 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 <br />
 
 ## Skilled At :muscle:
-[![My Skills](https://skillicons.dev/icons?i=js,react,git,html,css,bootstrap,materialui,ts,nodejs,mongodb,expressjs,redux,cpp,md,firebase)](https://www.nomandhoni.tech)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,git,tauri,materialui,tailwind,ts,nodejs,mongodb,expressjs,redux,md,firebase)](https://www.nomandhoni.tech)
 ## Currently Learning :technologist:
-[![Currently Learning](https://skillicons.dev/icons?i=nodejs,python)](https://skillicons.dev)<br />
+[![Currently Learning](https://skillicons.dev/icons?i=nodejs,rust,deno,python)](https://skillicons.dev)<br />
 
 ### <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 ![](./profile-3d-contrib/profile-night-green.svg)
