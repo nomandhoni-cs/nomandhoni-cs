@@ -1,6 +1,4 @@
-
-
-<img src="https://github.com/user-attachments/assets/9967b5ab-5f8c-4f89-9947-48a9ab62ca7e" width="100%"> 
+<img src="https://github.com/user-attachments/assets/b115facb-2940-47c3-a479-a48738cfdbe3" width="100%"> 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
