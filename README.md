@@ -22,15 +22,15 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 26 February 2026 - To: 28 March 2026
+From: 28 February 2026 - To: 30 March 2026
 
-Total Time: 42 hrs 29 mins
+Total Time: 35 hrs 1 min
 
-TypeScript    28 hrs 36 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀   65.31 %
-Markdown      3 hrs 56 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.98 %
-JSON          2 hrs 43 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.22 %
-Bash          2 hrs 24 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.51 %
-Other         1 hr 17 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.96 %
+TypeScript   25 hrs 4 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀   69.99 %
+Markdown     3 hrs 43 mins         ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.39 %
+Bash         2 hrs 7 mins          ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.93 %
+JSON         1 hr 52 mins          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.22 %
+Docker       1 hr                  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.83 %
 ```
 
 <!--END_SECTION:waka-->
