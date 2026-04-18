@@ -22,12 +22,12 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 16 March 2026 - To: 15 April 2026
+From: 17 March 2026 - To: 16 April 2026
 
-Total Time: 10 hrs 14 mins
+Total Time: 8 hrs 54 mins
 
-TypeScript   7 hrs 41 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   67.92 %
-Other        1 hr 4 mins           ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.57 %
+TypeScript   6 hrs 22 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.84 %
+Other        1 hr 4 mins           ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.85 %
 ```
 
 <!--END_SECTION:waka-->
