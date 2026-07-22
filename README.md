@@ -22,13 +22,13 @@ If you have any Query, ask me <a href="https://dailynoman.blogspot.com/p/contact
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 19 June 2026 - To: 19 July 2026
+From: 20 June 2026 - To: 20 July 2026
 
-Total Time: 12 hrs 50 mins
+Total Time: 11 hrs 37 mins
 
-TypeScript   9 hrs 7 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   68.19 %
-JSON         2 hrs 46 mins         ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.73 %
-Other        32 mins               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.07 %
+TypeScript   7 hrs 55 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀   65.03 %
+JSON         2 hrs 46 mins         ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.80 %
+Other        32 mins               ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.48 %
 ```
 
 <!--END_SECTION:waka-->
